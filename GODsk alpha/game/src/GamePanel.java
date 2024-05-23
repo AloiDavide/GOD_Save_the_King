@@ -24,16 +24,12 @@ public class GamePanel extends JPanel implements Runnable {
         this.addMouseWheelListener(mouseH);
 
         this.tm = new TurnManager(mouseH);
-
-
     }
 
     public void startGameThread() {
         //fa partire il thread in cui gira il gioco, e con start chiama il metodo run sottostante
         gameThread = new Thread(this);
         gameThread.start();
-
-
     }
 
     @Override

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ffjcext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/release/JRE/lib/deploy/ffjcext.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

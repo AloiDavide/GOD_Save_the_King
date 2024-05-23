@@ -5,7 +5,6 @@ import java.awt.event.MouseWheelEvent;
 import java.awt.event.MouseWheelListener;
 
 public class MouseHandler implements MouseListener, MouseWheelListener {
-    private Game g = Game.getGameInstance();
     private boolean rightClick;
     private boolean leftClick;
     private Point pixel;
