@@ -17,8 +17,13 @@ No license will be provided unless the assets are replaced with original or prop
 
 ## Screenshots from the prototype
 ![1](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/1.jpg?raw=true)
+
 ![2](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/2.jpg?raw=true)
+
 ![3](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/3.jpg?raw=true)
+
 ![4](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/4.jpg?raw=true)
+
 ![5](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/5.jpg?raw=true)
+
 ![6](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/6.jpg?raw=true)
