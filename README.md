@@ -16,14 +16,14 @@ The prototype contains assets (such as backgrounds, tilesets, and 2D sprites) so
 No license will be provided unless the assets are replaced with original or properly licensed ones.
 
 ## Screenshots from the prototype
-![1](screens/1.jpg)
+![1](screens/1.png)
 
-![2](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/2.jpg?raw=true)
+![2](screens/2.png)
 
-![3](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/3.jpg?raw=true)
+![3](screens/3.png)
 
-![4](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/4.jpg?raw=true)
+![4](screens/4.png)
 
-![5](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/5.jpg?raw=true)
+![5](screens/5.png)
 
-![6](https://github.com/AloiDavide/GOD_Save_the_King/blob/main/screens/6.jpg?raw=true)
+![6](screens/6.png)
